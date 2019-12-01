@@ -1,2 +1,3 @@
-# AdventofCode2019
-Advent calendar exercises from adventofcode.com (2019)
+# Advent of Code 2019
+Daily exercises from adventofcode.com (2019).
+Mike Ion
