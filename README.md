@@ -1,5 +1,5 @@
 # Advent of Code 2019
-Daily exercises from adventofcode.com (2019).
+[Advent of Code](adventofcode.com) is an Advent calendar of small programming puzzles. Here, I submit my code for all of the daily exercises I am able to complete. 
 
 | Day | Jupyter notebook                                                                |
 |-----|---------------------------------------------------------------------------------|
