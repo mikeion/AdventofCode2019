@@ -7,9 +7,9 @@
 | 2   | [Link](https://adventofcode.com/2019/day/2) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day2/day2.ipynb)
 | 3   | [Link](https://adventofcode.com/2019/day/3) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day3/day3.ipynb)
 | 4   | [Link](https://adventofcode.com/2019/day/4) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day4/day4.ipynb)
-| 5   | [Link](https://adventofcode.com/2019/day/5) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day4/day5.ipynb) (In progress)
-| 6   | [Link](https://adventofcode.com/2019/day/6) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day4/day6.ipynb) (In progress)
-| 7   | [Link](https://adventofcode.com/2019/day/7) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day4/day7.ipynb) (In progress)
+| 5   | [Link](https://adventofcode.com/2019/day/5) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day5/day5.ipynb)
+| 6   | [Link](https://adventofcode.com/2019/day/6) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day6/day6.ipynb) (In progress)
+| 7   | [Link](https://adventofcode.com/2019/day/7) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day7/day7.ipynb) (In progress)
 | 8   | [Link](https://adventofcode.com/2019/day/8) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day8/day8.ipynb)
 | 9   |
 | 10  |
