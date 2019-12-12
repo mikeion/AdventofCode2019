@@ -1,6 +1,7 @@
 # Advent of Code 2019
 [Advent of Code](http://www.adventofcode.com) is an Advent calendar of small programming puzzles completed daily by programmers around the world during the month of December. Here, I submit my solutions to the exercises, written in Python 3.7 using Jupyter notebooks. 
 <center>
+
 | Day | Link to Puzzle                              | Jupyter notebook                                                                
 |-----|---------------------------------------------|-------------------------------------------------------------------------------|
 | 1   | [Link](https://adventofcode.com/2019/day/1) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day1/day1.ipynb) 
@@ -28,4 +29,5 @@
 | 23  |
 | 24  |
 | 25  |
+
 </center>
