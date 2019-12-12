@@ -1,4 +1,4 @@
-# Advent of Code 2019
+# Advent of Code 2019 - Mike Ion
 [Advent of Code](http://www.adventofcode.com) is an Advent calendar of small programming puzzles completed daily by programmers around the world during the month of December. Here, I submit my solutions to the exercises, written in Python 3.7 using Jupyter notebooks. 
 <center>
 
@@ -13,8 +13,8 @@
 | 7   | [Link](https://adventofcode.com/2019/day/7) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day7/day7.ipynb) 
 | 8   | [Link](https://adventofcode.com/2019/day/8) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day8/day8.ipynb)
 | 9   | [Link](https://adventofcode.com/2019/day/9) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day9/day9.ipynb)
-| 10  | [Link](https://adventofcode.com/2019/day/10) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day10/day10.ipynb)
-| 11  | [Link](https://adventofcode.com/2019/day/11) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day11/day11.ipynb)
+| 10  | [Link](https://adventofcode.com/2019/day/10) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day10/day10.ipynb) (in progress)
+| 11  | [Link](https://adventofcode.com/2019/day/11) | [Code](https://github.com/mikeion/AdventofCode2019/blob/master/day11/day11.ipynb) (in progress)
 | 12  |
 | 13  |
 | 14  |
