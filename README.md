@@ -1,5 +1,5 @@
 # Advent of Code 2019 - Mike Ion
-[Advent of Code](http://www.adventofcode.com) is an Advent calendar of small programming puzzles completed daily by programmers around the world during the month of December. Here, I submit my solutions to the exercises, written in Python 3.7 using Jupyter notebooks. I am slowly working through these, but aim to finish them all by August 2020. It's been a fun challenge so far
+[Advent of Code](http://www.adventofcode.com) is an Advent calendar of small programming puzzles completed daily by programmers around the world during the month of December. Here, I submit my solutions to the exercises, written in Python 3.7 using Jupyter notebooks. I am slowly working through these, but aim to finish them all by December 2020. It's been a fun challenge so far
 <center>
 
 | Day | Link to Puzzle                              | Jupyter notebook                                                                
